@@ -146,7 +146,7 @@ export default function Login() {
           data-cy="terms"
         />{" "}
         <Label htmlFor="terms" check>
-          I agree to terms of service and privacy policy
+          I agree to terms of service and privacy policy.
         </Label>
       </FormGroup>
       <FormGroup className="text-center p-4">
